@@ -22,6 +22,3 @@ ainda está incompleto por falhas que infelizmente não estou conseguindo corrig
 - Exibição do personagem mais compatível e ranking dos três melhores resultados.
 - Interface responsiva e intuitiva.
 - Hospedagem via GitHub Pages.
-
-## Acesso
-
